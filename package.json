@@ -1,0 +1,23 @@
+{
+  "name": "snakes",
+  "version": "1.0.0",
+  "description": "Snakes game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazerakham/snakes.git"
+  },
+  "keywords": [
+    "game",
+    "learning"
+  ],
+  "author": "Jake Mirra and Jean Guryeva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazerakham/snakes/issues"
+  },
+  "homepage": "https://github.com/mazerakham/snakes#readme"
+}
